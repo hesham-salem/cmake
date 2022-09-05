@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hesham/Documents/wakeb/testcmake/lib/wifi.cpp
+wifi.hpp
+/home/hesham/Documents/wakeb/testcmake/lib/wifi.hpp
+
+/home/hesham/Documents/wakeb/testcmake/lib/wifi.hpp
+iostream
+-
+
