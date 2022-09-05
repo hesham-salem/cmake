@@ -6,3 +6,23 @@
 
 #IncludeRegexTransform: 
 
+../include/calc.hpp
+
+../lib/wifi.hpp
+iostream
+-
+
+/home/hesham/wakeb/cmake/main.cpp
+iostream
+-
+calc.hpp
+/home/hesham/wakeb/cmake/calc.hpp
+wifi.hpp
+/home/hesham/wakeb/cmake/wifi.hpp
+defualtConfig.h
+/home/hesham/wakeb/cmake/defualtConfig.h
+
+/home/hesham/wakeb/cmake/src/calc.cpp
+
+defualtConfig.h
+

@@ -4,19 +4,21 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/hesham/Documents/wakeb/testcmake/main.cpp" "/home/hesham/Documents/wakeb/testcmake/build/CMakeFiles/main.dir/main.cpp.o"
-  "/home/hesham/Documents/wakeb/testcmake/src/calc.cpp" "/home/hesham/Documents/wakeb/testcmake/build/CMakeFiles/main.dir/src/calc.cpp.o"
+  "/home/hesham/wakeb/cmake/main.cpp" "/home/hesham/wakeb/cmake/build/CMakeFiles/main.dir/main.cpp.o"
+  "/home/hesham/wakeb/cmake/src/calc.cpp" "/home/hesham/wakeb/cmake/build/CMakeFiles/main.dir/src/calc.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "../include"
+  "../lib"
+  "."
   )
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/home/hesham/Documents/wakeb/testcmake/build/lib/CMakeFiles/wifi_lib.dir/DependInfo.cmake"
+  "/home/hesham/wakeb/cmake/build/lib/CMakeFiles/wifi_lib.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

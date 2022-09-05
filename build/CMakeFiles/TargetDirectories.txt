@@ -1,6 +1,6 @@
-/home/hesham/Documents/wakeb/testcmake/build/CMakeFiles/rebuild_cache.dir
-/home/hesham/Documents/wakeb/testcmake/build/CMakeFiles/edit_cache.dir
-/home/hesham/Documents/wakeb/testcmake/build/CMakeFiles/main.dir
-/home/hesham/Documents/wakeb/testcmake/build/lib/CMakeFiles/rebuild_cache.dir
-/home/hesham/Documents/wakeb/testcmake/build/lib/CMakeFiles/edit_cache.dir
-/home/hesham/Documents/wakeb/testcmake/build/lib/CMakeFiles/wifi_lib.dir
+/home/hesham/wakeb/cmake/build/CMakeFiles/rebuild_cache.dir
+/home/hesham/wakeb/cmake/build/CMakeFiles/main.dir
+/home/hesham/wakeb/cmake/build/CMakeFiles/edit_cache.dir
+/home/hesham/wakeb/cmake/build/lib/CMakeFiles/rebuild_cache.dir
+/home/hesham/wakeb/cmake/build/lib/CMakeFiles/wifi_lib.dir
+/home/hesham/wakeb/cmake/build/lib/CMakeFiles/edit_cache.dir

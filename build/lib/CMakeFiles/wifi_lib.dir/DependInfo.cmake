@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/hesham/Documents/wakeb/testcmake/lib/wifi.cpp" "/home/hesham/Documents/wakeb/testcmake/build/lib/CMakeFiles/wifi_lib.dir/wifi.cpp.o"
+  "/home/hesham/wakeb/cmake/lib/wifi.cpp" "/home/hesham/wakeb/cmake/build/lib/CMakeFiles/wifi_lib.dir/wifi.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

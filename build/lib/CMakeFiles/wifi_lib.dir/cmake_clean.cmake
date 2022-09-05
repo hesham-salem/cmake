@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/wifi_lib.dir/wifi.cpp.o"
-  "libwifi_lib.a"
   "libwifi_lib.pdb"
+  "libwifi_lib.a"
 )
 
 # Per-language clean rules from dependency scanning.

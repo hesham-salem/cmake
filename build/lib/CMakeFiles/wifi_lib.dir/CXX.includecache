@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/home/hesham/Documents/wakeb/testcmake/lib/wifi.cpp
+/home/hesham/wakeb/cmake/lib/wifi.cpp
 wifi.hpp
-/home/hesham/Documents/wakeb/testcmake/lib/wifi.hpp
+/home/hesham/wakeb/cmake/lib/wifi.hpp
 
-/home/hesham/Documents/wakeb/testcmake/lib/wifi.hpp
+/home/hesham/wakeb/cmake/lib/wifi.hpp
 iostream
 -
 

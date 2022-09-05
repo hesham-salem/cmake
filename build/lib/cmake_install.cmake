@@ -1,4 +1,4 @@
-# Install script for directory: /home/hesham/Documents/wakeb/testcmake/lib
+# Install script for directory: /home/hesham/wakeb/cmake/lib
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
